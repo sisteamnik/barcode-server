@@ -1,0 +1,4 @@
+{
+	"device":"/dev/ttyUSB0",
+	"callback":"http://example.com/barcode?code=%s"
+}
