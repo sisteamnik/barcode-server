@@ -1,6 +1,6 @@
 barcode-server
 ==============
 
-bargode server written golang
+barcode server written golang
 work in progress
 ================
